@@ -7,3 +7,6 @@ Comparative evaluation of 2D feature correspondence selection algorithms
 
 Learning to Index for Nearest Neighbor Search https://arxiv.org/pdf/1807.02962.pdf
 求邻近点的，但说得比较深入，虽然我可以用到。不过感觉我用kdtree就行了。先放着而吧！
+
+找到一篇用深度学习做配准的论文
+https://arxiv.org/pdf/1903.05711.pdf
